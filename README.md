@@ -10,7 +10,6 @@
 
 
 
-
 <br>
 
 [![Made by AIoTLab](https://img.shields.io/badge/Made%20by%20AIoTLab-blue?style=for-the-badge)](https://www.facebook.com/DNUAIoTLab)
@@ -190,7 +189,7 @@ Với hướng dẫn này, bạn có thể sử dụng và cấu hình hệ th�
 ## 📰 Poster
 
 <p align="center">
-  <img src="https://github.com/namdz16/Canhbaodotnhap./blob/main/Poster_CNTT5_Aiot.pptx" width="150"> 
+ <img src="https://raw.githubusercontent.com/anhminhvdvn/CanhBaoDotNhap/main/images/Poster_CNTT5_Aiot.png"  > 
 </p>
 
 ## 🤝 Đóng góp
