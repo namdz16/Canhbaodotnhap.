@@ -190,7 +190,7 @@ Với hướng dẫn này, bạn có thể sử dụng và cấu hình hệ th�
 ## 📰 Poster
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/anhminhvdvn/CanhBaoDotNhap/main/images/Poster_CNTT5_Aiot.pptx" width="150"> 
+  <img src="https://github.com/namdz16/Canhbaodotnhap./blob/main/Poster_CNTT5_Aiot.pptx" width="150"> 
 </p>
 
 ## 🤝 Đóng góp
